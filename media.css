@@ -1,0 +1,297 @@
+@media all and (min-width: 744px) {
+    .nav-list {
+        display: flex;
+        font-size: 1.6rem;
+        gap: 22px;
+        justify-content: center;
+    }
+
+    .burger-btn {
+        display: none;
+    }
+
+    .sm-buttom-744 {
+        display: flex;
+    }
+
+    .black-box {
+        background-color: black;
+        height: 917px;
+        color: aliceblue;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pg-1 {
+        font-size: 2.4rem;
+        font-weight: 900;
+        padding-top: 26px;
+        line-height: 32px;
+    }
+
+    .pg-2 {
+        font-size: 1.6rem;
+        margin-top: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        padding-top: 29px;
+    }
+
+    .list {
+        font-size: 1.6rem;
+        margin-top: 29px;
+        line-height: 24px
+    }
+
+    .image-4 {
+        background-image: url(assets/images/img-md-1.png);
+    }
+
+    .pg-3 {
+        font-size: 4rem;
+        font-weight: 900;
+        line-height: 48px;
+        margin-top: 12px;
+        padding: 0 64px;
+    }
+
+    .black-box-1 {
+        display: flex;
+        background-color: black;
+        height: 242.46px;
+        align-items: flex-start;
+        justify-content: center;
+    }
+
+    .f-logo {
+        padding: 0 22px;
+    }
+
+    .f-list {
+        text-align: left;
+    }
+
+    h4 {
+        text-align: left;
+        margin-top: 16px;
+    }
+
+    .footer-columns {
+        display: flex;
+        justify-content: first baseline;
+        gap: 30px;
+        padding: 0 22px;
+    }
+
+    .sm-buttom {
+        padding: 0;
+    }
+
+}
+
+@media all and (min-width: 1024px) {
+    h1 {
+        font-size: 5.6rem;
+        text-align: center;
+        font-weight: 900;
+        line-height: 60px;
+        padding: 0 165px;
+    }
+
+    .point-box {
+        display: flex;
+        margin-top: 32px;
+    }
+
+    .p-1 {
+        margin-top: 0;
+        height: 254px;
+    }
+
+    .p-2 {
+        height: 254px;
+    }
+
+    .p-3 {
+        height: 254px;
+    }
+
+    .paragraf-3 {
+        text-align: left;
+        padding: 0 61px;
+    }
+
+    .black-box {
+        height: 895px;
+        padding: 0;
+    }
+
+    .pg-1 {
+        font-size: 2.4rem;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .side-text {
+        display: flex;
+        text-align: left;
+        padding: 0 32px;
+        gap: 129px;
+        align-items: baseline;
+        margin-top: 0 62px;
+    }
+
+    .list li {
+        margin-top: 8px;
+    }
+
+    .pg-2 {
+        font-size: 1.6rem;
+    }
+
+    .image-4 {
+        background-image: url(assets/images/img-lg-1.png);
+    }
+
+    .pg-3 {
+        padding: 0 212px;
+    }
+
+    .black-box-1 {
+        height: 309px;
+    }
+
+    .footer-columns {
+        gap: 120px;
+    }
+
+    .for-large-buttom {
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+@media all and (min-width: 1440px) {
+
+    .image-1 {
+        margin-top: 64px;
+    }
+
+    .for-extra-lg {
+        display: flex;
+        padding: 0 165px;
+        gap: 130px;
+        align-items: center;
+        height: 556px;
+        justify-content: center;
+    }
+
+    .paragraf-1 {
+        text-align: left;
+    }
+
+    .title-1 {
+        padding: 0;
+    }
+
+    .image-1 {
+        height: 428px;
+        width: 490px;
+    }
+
+    h1 {
+        display: flex;
+        text-align: left;
+        padding: 0;
+        font-size: 5.6rem;
+        line-height: 60px;
+
+    }
+
+    .extra-box-1 {
+        display: inline-block;
+    }
+
+    .for-large-buttom {
+        display: flex;
+        justify-content: flex-start;
+        margin-top: 40px;
+
+    }
+
+    .nav-list {
+        font-size: 1.6rem;
+    }
+
+    .point-1 {
+        justify-content: flex-start;
+        margin-left: 60px;
+    }
+
+    .black-box {
+        height: 620px;
+
+    }
+
+    .box-blok {
+        display: flex;
+        gap: 133px;
+        padding: 0;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .side-text {
+        display: block;
+        padding: 0;
+        padding-right: 150px;
+        width: 503.5px;
+    }
+
+    .image-3 {
+        align-items: center;
+        margin-left: 150px;
+    }
+
+    .image-4 {
+        background-image: url(assets/images/img-elg-1.png);
+    }
+
+    .subscribe {
+        display: flex;
+        color: white;
+        flex-direction: column;
+    }
+
+    .sub-text {
+        margin-top: 24px;
+        color: gray;
+    }
+
+    .black-box-1 {
+        display: flex;
+        flex-direction: row;
+        height: 336px;
+        justify-content: space-around;
+        gap: 0;
+        padding: 0;
+        margin: 0;
+        justify-content: center;
+    }
+
+    .footer-columns {
+        display: flex;
+        margin-top: 78px;
+        justify-content: space-around;
+        margin-right: 150px;
+
+    }
+
+    .f-logo {
+        margin-top: 96px;
+        margin-left: 150px;
+    }
+
+
+}
